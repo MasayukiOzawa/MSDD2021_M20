@@ -9,7 +9,7 @@
 - 変更データキャプチャ (Change Data Capture : CDC) 
     - [変更データ キャプチャ (CDC) とは](https://docs.microsoft.com/ja-jp/sql/relational-databases/track-changes/about-change-data-capture-sql-server)
 - クエリストアヒント
-    - [クエリ ストア ヒント (プレビュー)] (https://docs.microsoft.com/ja-jp/sql/relational-databases/performance/query-store-hints )
+    - [クエリ ストア ヒント (プレビュー)](https://docs.microsoft.com/ja-jp/sql/relational-databases/performance/query-store-hints )
 
 ## 監査 / 監視
 ### 一般提供開始
